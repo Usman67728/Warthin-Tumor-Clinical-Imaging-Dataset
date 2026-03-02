@@ -10,4 +10,4 @@ This dataset is intended for academic research, statistical modeling, and imagin
 
 Harvard Reference for This Repository
 
-Usman, M., 2026. Warthin Tumor Clinical–Imaging Dataset. GitHub repository. Available at: [https://github.com/yourusername/repositoryname](https://github.com/Usman67728/Warthin-Tumor-Clinical-Imaging-Dataset
+Usman, M., 2026. Warthin Tumor Clinical–Imaging Dataset. GitHub repository. Available at: https://github.com/Usman67728/Warthin-Tumor-Clinical-Imaging-Dataset
